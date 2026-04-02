@@ -1,0 +1,28 @@
+---
+import { company } from "../data/company";
+
+const links = [
+  { href: "/", label: "ホーム" },
+  { href: "/profile/", label: "会社情報" },
+  { href: "/contactus/", label: "お問い合わせ" },
+  { href: "/privacy/", label: "プライバシーポリシー" }
+];
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/">
+      <img src={company.logoImage} alt="" width="28" height="28" loading="eager" />
+      <span>株式会社小森研究所</span>
+    </a>
+    <nav aria-label="グローバルナビゲーション">
+      <ul class="nav-list">
+        {
+          links.map((link) => (
+            <li><a href={link.href}>{link.label}</a></li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</header>
