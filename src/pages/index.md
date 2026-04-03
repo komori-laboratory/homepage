@@ -4,14 +4,11 @@ title: 株式会社小森研究所
 description: 株式会社小森研究所の公式ホームページです。
 ---
 
-<section class="hero">
-  <div class="hero-grid">
-    <div>
-      <h1>想いを動かす</h1>
-      <p>株式会社小森研究所</p>
-      <p><a class="button" href="/profile/">Learn More</a></p>
-    </div>
-    <img src="/images/migrated/company/cover-bg-1024x397.webp" alt="株式会社小森研究所 カバー画像" width="1024" height="397" loading="eager" class="hero-image" />
+<section class="hero" style="background-image: url('/images/migrated/company/cover-bg-1024x397-w.webp');">
+  <div class="hero-content">
+    <h1>想いを動かす</h1>
+    <p>株式会社小森研究所</p>
+    <p><a class="button" href="/profile/">Learn More</a></p>
   </div>
 </section>
 
