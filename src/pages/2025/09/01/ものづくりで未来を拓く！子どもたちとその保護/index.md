@@ -19,6 +19,7 @@ publishedTime: 2025-09-01T00:00:00+09:00
 ## 記事内画像
 
 ![イベント会場の様子](/images/migrated/activities/2025-09-01-image-1.webp)
+
 ![体験コンテンツの実施風景](/images/migrated/activities/2025-09-01-image-2.jpg)
 
 ## 関連リンク

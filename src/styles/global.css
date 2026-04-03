@@ -104,6 +104,12 @@ main.container {
   padding: 3rem 0 5rem;
 }
 
+main.container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* ── Hero ── */
 .hero {
   padding: 5rem 3rem;

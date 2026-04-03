@@ -20,10 +20,6 @@ publishedTime: 2025-12-24T00:00:00+09:00
 
 今後も、さまざまなインタラクション技術を通じ、新たな体験価値の創出活動を支援してまいります。
 
-## 記事内画像
-
-![STEF 2025 展示イメージ](/images/migrated/activities/2025-12-24-blank_white.webp)
-
 ## 関連リンク
 
 - <http://www.horistudio.com/>
