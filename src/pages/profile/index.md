@@ -6,10 +6,6 @@ description: 株式会社小森研究所の会社情報ページです。
 
 <section class="panel">
 <h1>会社情報</h1>
-<p class="profile-logo-wrap">
-  <img class="profile-logo" src="/images/migrated/company/komori-lab-logo-icon.webp" alt="株式会社小森研究所 ロゴ" width="140" height="140" />
-</p>
-
 <table class="profile-table">
   <tbody>
     <tr><th scope="row">商号</th><td>株式会社小森研究所</td></tr>
