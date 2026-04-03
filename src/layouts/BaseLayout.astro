@@ -11,13 +11,14 @@ type Props = {
   publishedTime?: string;
 };
 
+const fm = Astro.props.frontmatter ?? Astro.props;
 const {
   title,
   description = "株式会社小森研究所 公式サイト",
   ogImage = "/images/og-default.png",
   ogType = "website",
   publishedTime
-} = Astro.props;
+} = fm;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImageUrl = ogImage.startsWith("http")
