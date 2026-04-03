@@ -7,7 +7,6 @@ description: 株式会社小森研究所の公式ホームページです。
 <section class="hero" style="background-image: url('/images/migrated/company/cover-bg-1024x397-w.webp');">
   <div class="hero-content">
     <h1>想いを動かす</h1>
-    <p>株式会社小森研究所</p>
     <p><a class="button" href="/profile/">Learn More</a></p>
   </div>
 </section>
