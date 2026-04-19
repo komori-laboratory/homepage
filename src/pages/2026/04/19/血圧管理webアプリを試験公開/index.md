@@ -15,7 +15,7 @@ publishedTime: 2026-04-19T00:00:00+09:00
 <img src="/images/activities/2026-04-19-bpm-app-screenshot.webp" alt="血圧管理Webアプリのトップ画面" class="figure-screenshot" />
 
 
-血圧管理Webアプリ(試験公開版) URL: [https://bpm.comoc.net/](https://bpm.comoc.net/)
+<p style="text-align: center;">血圧管理Webアプリ(試験公開版): <a href="https://bpm.comoc.net/">https://bpm.comoc.net/</a></p>
 
 既存の血圧管理サービスやスマートフォンアプリは数多く存在しますが、記録された血圧データが各サービス内に閉じているため、ユーザー自身が利用したいと考えるAIやツールとの連携に障壁が生じている状況がありました。
 
