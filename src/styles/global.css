@@ -67,6 +67,11 @@ a:hover {
   letter-spacing: 0.02em;
 }
 
+.brand span {
+  font-family: "Zen Maru Gothic", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+  font-weight: 700;
+}
+
 .brand:hover {
   color: var(--text);
 }
@@ -304,6 +309,7 @@ h2 {
 
 .footer-company {
   color: #fff;
+  font-family: "Zen Maru Gothic", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
   font-weight: 700;
   margin: 0 0 0.5rem;
 }
