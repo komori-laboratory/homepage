@@ -16,6 +16,10 @@ publishedTime: 2026-04-19T00:00:00+09:00
 
 本Webアプリは現在試験公開中で、Google、XまたはLINEのいずれかのアカウントをお持ちの方であれば、どなたでもご利用いただけます。
 
+## 記事内画像
+
+![血圧管理Webアプリのトップ画面](/images/activities/2026-04-19-bpm-app-screenshot.webp)
+
 ## 関連リンク
 
 - 血圧管理 (試験公開中) <https://bpm.comoc.net/>
