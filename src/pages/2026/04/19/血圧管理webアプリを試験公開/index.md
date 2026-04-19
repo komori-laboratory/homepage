@@ -20,6 +20,16 @@ URL: <https://bpm.comoc.net/>
 
 本Webアプリは現在試験公開中で、Google、XまたはLINEのいずれかのアカウントをお持ちの方であれば、どなたでもご利用いただけます。
 
+## 技術スタック
+
+- Astro 5 (SSR, @astrojs/node standalone)
+- React 19 アイランド (フォーム、グラフ)
+- better-auth (ソーシャルログイン: Google / X / LINE、セッションDB)
+- SQLite + Drizzle ORM
+- Tailwind CSS v4
+- Chart.js + react-chartjs-2
+- @vite-pwa/astro (PWA、オフライン)
+
 ## 記事内画像
 
 <img src="/images/activities/2026-04-19-bpm-app-screenshot.webp" alt="血圧管理Webアプリのトップ画面" class="figure-screenshot" />
