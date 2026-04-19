@@ -18,6 +18,6 @@ publishedTime: 2026-04-19T00:00:00+09:00
 
 ## 関連リンク
 
-- <https://bpm.comoc.net/>
+- 血圧管理 (試験公開中) <https://bpm.comoc.net/>
 
 [活動一覧へ戻る](/activities/)
