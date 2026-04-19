@@ -12,7 +12,8 @@ publishedTime: 2026-04-19T00:00:00+09:00
 
 株式会社小森研究所(以下当社)は、血圧管理Webアプリの試験公開を開始しました。
 
-URL: <https://bpm.comoc.net/>
+<img src="/images/activities/2026-04-19-bpm-app-screenshot.webp" alt="血圧管理Webアプリのトップ画面" class="figure-screenshot" />
+血圧管理Webアプリ(試験公開版) URL: <https://bpm.comoc.net/>
 
 既存の血圧管理サービスやスマートフォンアプリは数多く存在しますが、記録された血圧データが各サービス内に閉じているため、ユーザー自身が利用したいと考えるAIやツールとの連携に障壁が生じている状況がありました。
 
@@ -29,13 +30,5 @@ URL: <https://bpm.comoc.net/>
 - Tailwind CSS v4
 - Chart.js + react-chartjs-2
 - @vite-pwa/astro (PWA、オフライン)
-
-## 記事内画像
-
-<img src="/images/activities/2026-04-19-bpm-app-screenshot.webp" alt="血圧管理Webアプリのトップ画面" class="figure-screenshot" />
-
-## 関連リンク
-
-- 血圧管理 (試験公開中) <https://bpm.comoc.net/>
 
 [活動一覧へ戻る](/activities/)
