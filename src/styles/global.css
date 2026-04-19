@@ -117,8 +117,8 @@ main.container img {
 
 main.container img.figure-screenshot {
   width: auto;
-  max-width: 320px;
-  margin: 1.5rem auto;
+  max-width: 160px;
+  margin: 1.5rem 0;
 }
 
 /* ── Hero ── */
