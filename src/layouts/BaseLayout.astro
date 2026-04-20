@@ -56,6 +56,17 @@ const ogImageUrl = ogImage.startsWith("http")
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
     {ogType === "article" && publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    {import.meta.env.PROD && (
+      <>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-8RN1K6VWN6" is:inline></script>
+        <script is:inline>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-8RN1K6VWN6');
+        </script>
+      </>
+    )}
   </head>
   <body>
     <Header />
