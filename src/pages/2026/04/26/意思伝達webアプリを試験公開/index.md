@@ -15,11 +15,11 @@ publishedTime: 2026-04-26T00:00:00+09:00
 <img src="/images/activities/2026-04-26-ishindenshin-screenshot.webp" alt="意思伝達Webアプリの画面" class="figure-screenshot" />
 
 
-<p style="text-align: center;">意思伝達Webアプリ(試験公開版): <a href="https://ishindenshin.comoc.net/">https://ishindenshin.comoc.net/</a></p>
+<p style="text-align: center;">意思伝達Webアプリ(試験公開版): <a href="https://komolab.jp/ishindenshin/public/">https://komolab.jp/ishindenshin/public/</a></p>
 
 ALSや多系統萎縮症などの疾患をお持ちの方の中には、ご自身の意思を周囲に伝える手段が極めて限られている方がいらっしゃいます。
 
-そこで当社では、ブラウザがあればすぐに使える静的Webアプリとして「意思伝達」を構築し、Space / Enterキーやゲームパッドのフェイスボタンといった汎用的な入力デバイス1つで、50音表からの文字選択・濁点／半濁点・小書き・走査方向の反転までを行えるようにしました。
+そこで当社では、ブラウザがあればすぐに使えるWebアプリとして「意思伝達」を構築し、Space / Enterキーやゲームパッドのフェイスボタンといった汎用的な入力デバイス1つで、50音表からの文字選択・濁点／半濁点・小書き・走査方向の反転までを行えるようにしました。
 
 走査は行(縦方向) → 列(横方向)の二段階で進み、目的の位置に枠が来た瞬間にスイッチを押して文字を確定します。サーバ側処理は一切なく、ローカルでファイルを開いて動作確認することも可能です。
 
