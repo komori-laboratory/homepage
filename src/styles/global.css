@@ -393,28 +393,28 @@ table.profile-table th {
   white-space: nowrap;
 }
 
-/* ── Index page: inline list styling ── */
-main.container > ul {
+/* ── Index/listing pages: inline list styling (not article body) ── */
+main.container:not(.article) > ul {
   list-style: none;
   padding: 0;
   margin: 0 0 2rem;
 }
 
-main.container > ul > li {
+main.container:not(.article) > ul > li {
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--border);
 }
 
-main.container > ul > li:last-child {
+main.container:not(.article) > ul > li:last-child {
   border-bottom: none;
 }
 
-main.container > ul > li > a {
+main.container:not(.article) > ul > li > a {
   text-decoration: none;
   font-weight: 500;
 }
 
-main.container > ul > li > a:hover {
+main.container:not(.article) > ul > li > a:hover {
   color: var(--primary);
   text-decoration: underline;
 }

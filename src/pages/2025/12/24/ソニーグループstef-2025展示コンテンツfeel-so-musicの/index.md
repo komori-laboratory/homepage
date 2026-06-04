@@ -26,6 +26,4 @@ publishedTime: 2025-12-24T00:00:00+09:00
 - <https://www.sony.com/ja/SonyInfo/blog/2025/12/22/>
 - <https://www.sony.com/ja/SonyInfo/technology/stories/entries/STEF2025_report/>
 
-[元記事を見る](https://komori-lab.com/2025/12/24/%e3%82%bd%e3%83%8b%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97stef-2025%e5%b1%95%e7%a4%ba%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84feel-so-music%e3%81%ae/)
-
 [活動一覧へ戻る](/activities/)

@@ -33,6 +33,4 @@ publishedTime: 2025-09-01T00:00:00+09:00
 - <https://x.com/wotakuro>
 - <https://shimolabo.com/>
 
-[元記事を見る](https://komori-lab.com/2025/09/01/%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%81%a7%e6%9c%aa%e6%9d%a5%e3%82%92%e6%8b%93%e3%81%8f%ef%bc%81%e5%ad%90%e3%81%a9%e3%82%82%e3%81%9f%e3%81%a1%e3%81%a8%e3%81%9d%e3%81%ae%e4%bf%9d%e8%ad%b7/)
-
 [活動一覧へ戻る](/activities/)

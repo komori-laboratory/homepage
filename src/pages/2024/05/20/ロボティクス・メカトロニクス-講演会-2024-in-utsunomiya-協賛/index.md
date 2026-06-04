@@ -26,12 +26,8 @@ publishedTime: 2024-05-20T00:00:00+09:00
 ## 関連リンク
 
 - <https://robomech.org/2024/>
-- <https://i0.wp.com/komori-lab.com/wp-content/uploads/2024/05/ROBOMECH-2024-Poster-Final-Combined.png?ssl=1>
 - <https://www.aicra.akita-pu.ac.jp/>
 - <https://www.plusplus.jp/>
 - <https://github.com/AIC-APU/ReaperRobot>
-- <https://www.orec.co.jp/product/rcsp530/>
-
-[元記事を見る](https://komori-lab.com/2024/05/20/%e3%83%ad%e3%83%9c%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e3%83%bb%e3%83%a1%e3%82%ab%e3%83%88%e3%83%ad%e3%83%8b%e3%82%af%e3%82%b9-%e8%ac%9b%e6%bc%94%e4%bc%9a-2024-in-utsunomiya-%e5%8d%94%e8%b3%9b/)
 
 [活動一覧へ戻る](/activities/)

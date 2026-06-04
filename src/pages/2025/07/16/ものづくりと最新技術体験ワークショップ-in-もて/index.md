@@ -24,6 +24,4 @@ publishedTime: 2025-07-16T00:00:00+09:00
 
 - <https://sites.google.com/komori-lab.com/motezukuri1>
 
-[元記事を見る](https://komori-lab.com/2025/07/16/%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%81%a8%e6%9c%80%e6%96%b0%e6%8a%80%e8%a1%93%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97-in-%e3%82%82%e3%81%a6/)
-
 [活動一覧へ戻る](/activities/)

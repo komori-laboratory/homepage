@@ -36,6 +36,4 @@ TOPPERSプロジェクトのYouTubeチャンネル内で、講演の様子を撮
 - <https://komori-lab.com/2024/05/20/%e3%83%ad%e3%83%9c%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9%e3%83%bb%e3%83%a1%e3%82%ab%e3%83%88%e3%83%ad%e3%83%8b%e3%82%af%e3%82%b9-%e8%ac%9b%e6%bc%94%e4%bc%9a-2024-in-utsunomiya-%e5%8d%94%e8%b3%9b/>
 - <https://www.youtube.com/@toppersjp>
 
-[元記事を見る](https://komori-lab.com/2024/08/27/%e7%ae%b1%e5%ba%ad%e3%81%be%e3%81%a4%e3%82%8a-1-%e3%81%ab%e3%81%a6%e8%ac%9b%e6%bc%94/)
-
 [活動一覧へ戻る](/activities/)

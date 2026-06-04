@@ -70,7 +70,7 @@ const ogImageUrl = ogImage.startsWith("http")
   </head>
   <body>
     <Header />
-    <main class="container">
+    <main class={ogType === "article" ? "container article" : "container"}>
       <slot />
     </main>
     <Footer />
